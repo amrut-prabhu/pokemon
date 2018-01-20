@@ -1,0 +1,72 @@
+﻿Build started 25-Aug-16 10:12:05 AM.
+     1>Project "C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\Pokemon\Pokemon.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\/SFML-2.1/include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Pokemon.cpp
+         Pokemon.cpp
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(210): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(472): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(509): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(546): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(597): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(607): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(632): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(643): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(824): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(854): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(879): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(886): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(914): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(923): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(995): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1029): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1032): warning C4101: 'choice' : unreferenced local variable
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1156): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1206): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1232): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1400): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1409): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1512): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1513): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1516): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1517): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1542): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1551): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1654): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1655): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1658): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1659): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1685): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1706): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1822): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1893): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1903): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1918): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1928): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1938): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1948): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1958): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1967): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1972): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1978): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(1993): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2194): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2196): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2211): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2236): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2246): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2262): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2338): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2377): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2382): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2402): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2415): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2464): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\amrut prabhu\documents\c++ programs\sfml stuff\pokemon vs13\pokemon\pokemon.cpp(2474): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\Debug\Pokemon.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\/SFML-2.1/lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\Debug\Pokemon.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\Debug\Pokemon.lib" /MACHINE:X86 Debug\Pokemon.obj
+         Pokemon.vcxproj -> C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\Debug\Pokemon.exe
+     1>Done Building Project "C:\Users\Amrut Prabhu\Documents\C++ Programs\SFML stuff\Pokemon VS13\Pokemon\Pokemon\Pokemon.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.52
